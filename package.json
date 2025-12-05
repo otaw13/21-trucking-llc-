@@ -1,5 +1,5 @@
 {
-      "name": "Company Website with Privacy Policy",
+      "name": "company_website_with_privacy_policy",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
@@ -58,6 +58,11 @@
       },
       "scripts": {
             "dev": "vite",
-            "build": "vite build"
-      }
+            "build": "vite build",
+            "preview": "vite preview"
+      },
+      "engines": {
+      "node": "18.x"
+  }
+      
 }
