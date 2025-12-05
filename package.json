@@ -54,15 +54,16 @@
             "@types/node": "^20.10.0",
             "@types/react-dom": "^19.2.2",
             "@vitejs/plugin-react-swc": "^3.10.2",
+            "typescript": "^4.9.5",
             "vite": "6.3.5"
       },
       "scripts": {
             "dev": "vite",
             "build": "chmod +x node_modules/.bin/vite && vite build",
-            "preview": "vite preview"
+            "preview": "vite preview",
+            "vercel-build": "npm ci && chmod +x node_modules/.bin/vite && npm run build"
       },
       "engines": {
-      "node": "20.x"
-  }
-      
+            "node": "20.x"
+      }
 }
