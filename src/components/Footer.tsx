@@ -27,11 +27,11 @@ export function Footer() {
             <div className="space-y-3 text-gray-400">
               <div className="flex items-center gap-2 hover:text-[#D4AF37] transition-colors duration-300">
                 <Phone className="w-4 h-4" />
-                <span>(555) 123-4567</span>
+                <span>+1 (707) 800-4800</span>
               </div>
               <div className="flex items-center gap-2 hover:text-[#D4AF37] transition-colors duration-300">
                 <Mail className="w-4 h-4" />
-                <span>info@21trucking.com</span>
+                <span>21truckingllcteam@gmail.com</span>
               </div>
               <div className="flex items-center gap-2 hover:text-[#D4AF37] transition-colors duration-300">
                 <MapPin className="w-4 h-4" />

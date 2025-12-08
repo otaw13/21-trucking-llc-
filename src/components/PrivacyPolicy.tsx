@@ -202,7 +202,7 @@ export function PrivacyPolicy() {
                 <h3 className="mb-3 text-[#0A0A0A]">Help</h3>
                 <p className="text-gray-700 leading-relaxed">
                   If you are experiencing any issues, you can reply with the keyword HELP. Or, you can get 
-                  help directly from us at <a href="mailto:info@21trucking.com" className="text-[#D4AF37] hover:text-[#C0A030] underline transition-colors duration-300">info@21trucking.com</a> or by calling (555) 123-4567.
+                  help directly from us at <a href="mailto:21truckingllcteam@gmail.com" className="text-[#D4AF37] hover:text-[#C0A030] underline transition-colors duration-300">21truckingllcteam@gmail.com</a> or by calling +1 (707) 800-4800.
                 </p>
               </div>
 
@@ -275,8 +275,8 @@ export function PrivacyPolicy() {
               </p>
               <div className="space-y-3 text-gray-800">
                 <p className="text-[#0A0A0A]">21 Trucking LLC</p>
-                <p>Email: <a href="mailto:info@21trucking.com" className="text-[#D4AF37] hover:text-[#C0A030] underline transition-colors duration-300">info@21trucking.com</a></p>
-                <p>Phone: <a href="tel:5551234567" className="text-[#D4AF37] hover:text-[#C0A030] underline transition-colors duration-300">(555) 123-4567</a></p>
+                <p>Email: <a href="mailto:21truckingllcteam@gmail.com" className="text-[#D4AF37] hover:text-[#C0A030] underline transition-colors duration-300">21truckingllcteam@gmail.com</a></p>
+                <p>Phone: <a href="tel:5551234567" className="text-[#D4AF37] hover:text-[#C0A030] underline transition-colors duration-300">+1 (707) 800-4800</a></p>
               </div>
             </section>
           </div>
