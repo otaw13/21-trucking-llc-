@@ -276,7 +276,7 @@ export function PrivacyPolicy() {
               <div className="space-y-3 text-gray-800">
                 <p className="text-[#0A0A0A]">21 Trucking LLC</p>
                 <p>Email: <a href="mailto:21truckingllcteam@gmail.com" className="text-[#D4AF37] hover:text-[#C0A030] underline transition-colors duration-300">21truckingllcteam@gmail.com</a></p>
-                <p>Phone: <a href="tel:5551234567" className="text-[#D4AF37] hover:text-[#C0A030] underline transition-colors duration-300">+1 (707) 800-4800</a></p>
+                <p>Phone: <a href="tel:7078004800" className="text-[#D4AF37] hover:text-[#C0A030] underline transition-colors duration-300">+1 (707) 800-4800</a></p>
               </div>
             </section>
           </div>

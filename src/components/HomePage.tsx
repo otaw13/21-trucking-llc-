@@ -340,7 +340,7 @@ export function HomePage() {
                 experience the 21 Trucking difference.
               </p>
               <div className="flex flex-col sm:flex-row gap-6 justify-center">
-                <a href="tel:5551234567" className="bg-[#D4AF37] hover:bg-[#C0A030] text-[#0A0A0A] px-10 py-5 rounded-3xl transition-all duration-300 hover:scale-105 shadow-xl flex items-center justify-center gap-2">
+                <a href="tel:7078004800" className="bg-[#D4AF37] hover:bg-[#C0A030] text-[#0A0A0A] px-10 py-5 rounded-3xl transition-all duration-300 hover:scale-105 shadow-xl flex items-center justify-center gap-2">
                   <Phone className="w-5 h-5" />
                   Call Us: +1 (707) 800-4800
                 </a>
